@@ -14,13 +14,13 @@
 ## 🧑‍💻 About me
 
 - 📍 Based in **Chennai, Tamil Nadu, India**
-- 💻 Full-stack developer who enjoys building things end to end
+- 💻 **Full Stack Developer** who enjoys building things end to end
 - 🌱 Always learning, one more commit at a time
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kabilan-g-r-9749631b5)
 
 ## 💼 What I do
 
-I'm a full-stack developer working across the web stack, from front-end interfaces to back-end services and data. I mostly build with JavaScript and Java, and I like turning ideas into small, working products: portfolio sites, expense tracking, location apps and more. I care about clean, readable code and keep learning by building.
+I work as a **Full Stack Developer**, building across the web stack, from front-end interfaces to back-end services and data. I mostly build with JavaScript and Java, and I like turning ideas into small, working products: portfolio sites, expense tracking, location apps and more. I care about clean, readable code and keep learning by building.
 
 ## 🛠️ Tech stack
 
